@@ -4,7 +4,7 @@
 
 С сайта github.com клонируйте репозиторий, в используемую вами IDE, следующей командой:
 ```html
-git clone https://github.com
+git clone https://github.com/DenNikiten/TaskEM.git
 ```
 
 ### Создайте виртуальное окружение с помощью следующих команд:
