@@ -1,0 +1,14 @@
+Input user name
+Input password
+Click login button
+Good value word
+Add the selected product to the cart
+Click shopping cart
+Click checkout button
+Input first name
+Input last name
+Input postal code
+Add personal info
+Click continue button
+Click Finish button
+Good value word
